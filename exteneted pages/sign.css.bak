@@ -1,0 +1,19 @@
+body
+{background-color: black;
+}
+div
+{
+position:fixed;
+border-width:5px;
+border-color:yellow;
+border-style:solid;	
+padding-left: 400px;
+padding-top: 50px;
+padding-bottom:100px;
+margin-top: 40px;
+margin-left: 200px;
+margin-right: 200px;
+border-radius:50px;
+
+}
+h1,h2,h3{color: white;}
